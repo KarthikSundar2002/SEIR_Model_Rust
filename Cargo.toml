@@ -1,0 +1,10 @@
+[package]
+name = "seir-model-rust"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+ode_solvers = "0.3.4"
+plotters = "^0.3.1"
+
+
